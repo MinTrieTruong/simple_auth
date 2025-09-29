@@ -13,8 +13,4 @@ node cookie_auth.js       # kiểm tra Cookie + Session
 
 ---
 
-![Register](https://github.com/MinTrieTruong/simple_auth/blob/main/public/results/register.png?raw=true)
-![Login](https://github.com/MinTrieTruong/simple_auth/blob/main/public/results/login.png?raw=true)
-![Profile](https://github.com/MinTrieTruong/simple_auth/blob/main/public/results/profile.png?raw=true)
-![Logout](https://github.com/MinTrieTruong/simple_auth/blob/main/public/results/logout.png?raw=true)
 
