@@ -11,6 +11,10 @@ node basic_auth.js        # kiểm tra Basic Auth
 node cookie_auth.js       # kiểm tra Cookie + Session
 
 
----
+![Register](https://raw.githubusercontent.com/MinTrieTruong/simple_auth/main/public/result/register.png)
+![Login](https://raw.githubusercontent.com/MinTrieTruong/simple_auth/main/public/result/login.png)
+![Profile](https://raw.githubusercontent.com/MinTrieTruong/simple_auth/main/public/result/profile.png)
+![Logout](https://raw.githubusercontent.com/MinTrieTruong/simple_auth/main/public/result/logout.png)
+
 
 
