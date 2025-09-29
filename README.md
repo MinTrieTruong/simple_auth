@@ -15,13 +15,13 @@ node cookie_auth.js   # kiểm tra Cookie + Session
 Đây là các màn hình của ứng dụng:
 
 ### 1. Register
-![Register Screen](public/results/register.png)
+![Register Screen](https://raw.githubusercontent.com/MinTrieTruong/simple_auth/main/public/result/register.png)
 
 ### 2. Login
-![Login Screen](public/results/login.png)
+![Login Screen](https://raw.githubusercontent.com/MinTrieTruong/simple_auth/main/public/result/login.png)
 
 ### 3. Profile
-![Profile Screen](public/results/profile.png)
+![Profile Screen](https://raw.githubusercontent.com/MinTrieTruong/simple_auth/main/public/result/profile.png)
 
 ### 4. Logout
-![Logout Screen](public/results/logout.png)
+![Logout Screen](https://raw.githubusercontent.com/MinTrieTruong/simple_auth/main/public/result/logout.png)
